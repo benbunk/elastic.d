@@ -1,0 +1,13 @@
+2015-04-02 15:03:25,427 __init__ startup 10340 init starting up
+2015-04-02 15:03:25,427 plugin_manager __init__ 10340 initializing plugins 
+2015-04-02 15:03:25,427 plugin_manager _load_plugin 10340 Loading datastore
+2015-04-02 15:03:25,427 plugin_manager _load_module 10340 loading sqlite_datastore.SqliteDatastore from ['C:\\dev\\projects\\elasticd\\elasticd\\ext\\']
+2015-04-02 15:03:25,427 plugin_manager _load_module 10340 sqlite_datastore - SqliteDatastore
+2015-04-02 15:03:25,428 sqlite_datastore __init__ 10340 sqlite datasource started
+2015-04-02 15:03:25,428 plugin_manager _load_plugin 10340 Loading driver
+2015-04-02 15:03:25,428 plugin_manager _load_module 10340 loading varnish_driver.VarnishDriver from ['C:\\dev\\projects\\elasticd\\elasticd\\ext\\']
+2015-04-02 15:03:25,428 plugin_manager _load_module 10340 varnish_driver - VarnishDriver
+2015-04-02 15:03:25,430 plugin_manager _load_plugin 10340 Loading resource-locator
+2015-04-02 15:03:25,430 plugin_manager _load_module 10340 loading aws_resource_locator.AWSinstanceLocator from ['C:\\dev\\projects\\elasticd\\elasticd\\ext\\']
+2015-04-02 15:03:25,430 plugin_manager _load_module 10340 aws_resource_locator - AWSinstanceLocator
+2015-04-02 15:03:25,443 _internal _log 10340  * Running on http://127.0.0.1:5000/
